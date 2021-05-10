@@ -1,0 +1,16 @@
+.navbar-nav {
+  margin-left: auto;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+
+
+.title-image {
+  width: 50%;
+  -ms-transform: rotate(20deg);
+  transform: rotate(20deg);
+}
